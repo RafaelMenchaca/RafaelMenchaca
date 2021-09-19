@@ -16,27 +16,7 @@
 - 😄 Pronouns: ...
 - 🔭 I’m currently working...
  -->
-## Here are some of my practice projects. 📃
+## Check out some of my practice projects. 📃
 That are already on github pages, take a look at them, and if you can leave me a feedback, remember they are practice projects.
 
-### Projects that work well. 📝 ✅
-**Project Rock Paper and Scissors (game)** 
-- Live Preview: https://rafaelmenchaca.github.io/rock_paper_scissors/
-- Github repo:  https://github.com/RafaelMenchaca/rock_paper_scissors
 
-**Project Black Jack (game)**
-- Live Preview: https://rafaelmenchaca.github.io/proyectoBlackJack/
-- Github repo:  https://github.com/RafaelMenchaca/proyectoBlackJack
-
-**Project Landing page (No mobile devices)**
-- Live Preview: https://rafaelmenchaca.github.io/project-landing-page/
-- Github repo:  https://github.com/RafaelMenchaca/project-landing-page
-
-### Projects that are not finished yet. 🕛 🔧
-**Project Web Desing**
-- Live Preview: https://rafaelmenchaca.github.io/Proyecto_BR/
-- Github repo:  https://github.com/RafaelMenchaca/Proyecto_BR
-
-**Project My Web Site**
-- Live Preview: https://rafaelmenchaca.github.io/sitio_web/
-- Github repo:  https://github.com/RafaelMenchaca/sitio_web
