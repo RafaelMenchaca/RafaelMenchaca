@@ -7,7 +7,7 @@
 ## **Thanks for land in my repo, so please know a little more about me.** ✨ 
 
 - 🌱 I’m currently learning HTML / CSS / JavaScript / React / Ruby.
-- 👯 I’m looking to collaborate on basics projects to improve my skills.
+- 😄 I’m looking to collaborate on basics projects to improve my skills.
 - 🤔 I’m looking for help with people like me (beginners) to help us each other.
 - 💬 Please give me some feedback, don't judge me so hard.
 - ⚡ Fun fact: My code always looks very ugly and confusing but I still manage to make it work 🤣, I'm working to improve this...
