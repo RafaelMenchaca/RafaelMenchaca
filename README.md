@@ -34,8 +34,8 @@ Robie Jr. is my custom-built robot that evolves each week! It's equipped with:
 - 🕘 User panel with planning history (upcoming)  
 - 🗂️ Multiformat support (SEP, UNAM, COBAC...)
 
-> 👁️ Visit the site: *[https://rafaelmenchaca.github.io/planeacion-docente-ia/]*
-> 🗂️ Visit the repo: [Planeación Escolar con IA](https://github.com/RafaelMenchaca/planeacion-docente-ia?tab=readme-ov-file)
+- 👁️ Visit the site: (https://rafaelmenchaca.github.io/planeacion-docente-ia/)
+- 🗂️ Visit the repo: [Planeación Escolar con IA](https://github.com/RafaelMenchaca/planeacion-docente-ia?tab=readme-ov-file)
 > 💻 Tech stack: HTML, CSS, JavaScript + AI backend
 
 ---
