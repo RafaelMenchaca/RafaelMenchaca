@@ -9,7 +9,7 @@ Self-taught developer exploring the world of **robotics, C++, Python, embedded s
 Robie Jr. is my custom-built robot.
 
 - 💡 Features: Obstacle avoidance, line following, real-time sensor feedback, and fun personality!
-- 📂 View the code:** [Robie Jr.](https://github.com/RafaelMenchaca/robotics-projects)
+- 📂 View the code: [Robie Jr.](https://github.com/RafaelMenchaca/robotics-projects)
 
 ---
 
