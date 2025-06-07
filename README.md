@@ -1,15 +1,6 @@
 # 👋 Hi, I’m Rafael!
 
-Self-taught developer exploring the world of **robotics, C++, Python, embedded systems, web development, JavaScript, and AI-powered automation** 🤖⚙️
-
----
-
-## 🔧 Currently Building: Robie Jr.
-
-Robie Jr. is my custom-built robot.
-
-- 💡 Features: Obstacle avoidance, line following, real-time sensor feedback, and fun personality!
-- 📂 View the code: [Robie Jr.](https://github.com/RafaelMenchaca/robotics-projects)
+Self-taught developer exploring **robotics, C++, Python, embedded systems, web development, JavaScript, and AI-powered automation** 🤖⚙️
 
 ---
 
@@ -20,6 +11,15 @@ Robie Jr. is my custom-built robot.
 - 👁️ Visit the site: https://rafaelmenchaca.github.io/planeacion-docente-ia/
 - 🗂️ Visit the repo: [Planeación Escolar con IA](https://github.com/RafaelMenchaca/planeacion-docente-ia?tab=readme-ov-file)
 > 💻 Tech stack: HTML, CSS, JavaScript + AI backend
+
+---
+
+## 🔧 Currently Building: Robie Jr.
+
+Robie Jr. is my custom-built robot.
+
+- 💡 Features: Obstacle avoidance, line following, real-time sensor feedback, and fun personality!
+- 📂 View the code: [Robie Jr.](https://github.com/RafaelMenchaca/robotics-projects)
 
 ---
 
@@ -38,18 +38,6 @@ I also practice Python through [100 Days of Code: Python Bootcamp](https://githu
 
 ---
 
-## 🚀 What's Next
-
-- ✅ Line following robot with multi-sensor logic (IR)
-- ⏳ Educativo IA, web app working with IA
-- ⏳ Embedded systems (Raspberry pie, Arduino)
-- 🔜 Python for IA
-- 🔜 Raspberry Pi integration for real AI vision
-
----
-
 ## 📫 Let’s Connect!
 
 If you're into robotics, Python automation, or building cool things from scratch — feel free to follow or reach out!
-
-> Learning in public. Documenting everything. Improving every day 🚀
