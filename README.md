@@ -16,5 +16,5 @@ Self-taught developer exploring **robotics, C++, Python, embedded systems, web d
 
 ## 📚 My Study Journey
 
--I also practice Python through [100 Days of Code: Python Bootcamp](https://github.com/RafaelMenchaca/100-days-of-code-python)
--Robie Jr. is my custom-built robot. [Robie Jr.](https://github.com/RafaelMenchaca/robotics-projects)
+- I also practice Python through [100 Days of Code: Python Bootcamp](https://github.com/RafaelMenchaca/100-days-of-code-python)
+- Robie Jr. is my custom-built robot. [Robie Jr.](https://github.com/RafaelMenchaca/robotics-projects)
