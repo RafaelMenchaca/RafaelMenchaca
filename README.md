@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Rafael!
 
 Self-taught developer exploring:  
-🤖 **Robotics** • ⚙️ **C++** • 🐍 **Python** • 💻 **Embedded Systems** • 🌐 **Web Development** • ⚡ **JavaScript** • 🗄️ **Supabase** • 🧠 **AI-Powered Automation**
+🐍 **Python** • 💻 **Embedded Systems** • 🌐 **Web Development** • ⚡ **JavaScript** • 🗄️ **Supabase** • 🧠 **AI** • 🤖 **Robotics** • ⚙️ **C++**
 
 ---
 
@@ -23,6 +23,7 @@ Built to simplify lesson planning and integrate smart automation tools for educa
 ### 🐍 Completed
 - **Python:** [100 Days of Code: Python Bootcamp](https://github.com/RafaelMenchaca/100-days-of-code-python) — learned Python, Flask, APIs, web automation, and data analysis  
   - Python • Flask • APIs • Pandas • Automation
+ 
 
 ### 🌐 Learning
 - **Full-Stack Development:** [The Complete Full-Stack Web Development Bootcamp](https://github.com/RafaelMenchaca/the-full-stack-web-development-bootcamp)  
@@ -30,7 +31,7 @@ Built to simplify lesson planning and integrate smart automation tools for educa
 
 ### 🤖 Building
 - **Robotics & C++:** Creating my custom robot [Robie Jr.](https://github.com/RafaelMenchaca/robotics-projects) — integrating sensors, motor control, and embedded logic  
-   C++ • Arduino • OLED Display • Sensors & Motor Drivers
+  - C++ • Arduino • OLED Display • Sensors & Motor Drivers
 
 ### 🧠 Exploring
 - **Cybersecurity & Linux:** Following my self-taught [Kali Linux Study Plan](https://github.com/RafaelMenchaca/kali-linux-study-plan) — focusing on networking, automation, and ethical hacking tools  
